@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"CSS3",
+		"Diffy",
+		"DocBlockr",
+		"EditorConfig",
+		"Git",
+		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"Seti_UI",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"VBScript"
+	]
+}
