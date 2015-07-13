@@ -5,7 +5,6 @@
 	"installed_packages":
 	[
 		"ApacheConf.tmLanguage",
-		"CSS3",
 		"Diffy",
 		"DocBlockr",
 		"EditorConfig",
@@ -14,10 +13,9 @@
 		"JavaScriptNext - ES6 Syntax",
 		"Package Control",
 		"Pretty JSON",
-		"Sass",
 		"Seti_UI",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"VBScript"
+		"Syntax Highlighting for Sass"
 	]
 }
