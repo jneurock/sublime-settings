@@ -15,6 +15,7 @@
 		"Pretty JSON",
 		"Seti_UI",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-jshint",
 		"Syntax Highlighting for Sass"
 	]
